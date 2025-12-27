@@ -1,4 +1,6 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
+## NAME: HIMALINI S
+## REFNO: 25017504
 
 **AIM:**
 
@@ -23,6 +25,12 @@
 *Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the algebraic sum of voltages in a closed path is zero’. Since potential at a point is a single value, the sum of all potential drops must be equal when traversing a closed path and coming back to the same point*
 
 **CIRCUIT DIAGRAM:**
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/595b0cae-14af-4f6b-a8d8-bbc668276677" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f67b2307-f349-484f-afeb-0c85b0f95d60" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/91946c6e-2b4b-4a13-9455-040c29bc199d" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/55abe6e5-d4db-49c2-b916-b8c78d794795" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/521a79ba-3851-41ab-87b3-ad47c5d23d0c" />
 
 
 
